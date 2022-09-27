@@ -10,6 +10,18 @@ public class Intro {
 		int a; // declaration
 		
 		a = 20; // initialization
+		
+		// a
+		// b
+		// c
+		// d
+		
+		/*
+		 * asdas
+		 * sadas
+		 * dasdas
+		 * asdasdas
+		 */
 		System.out.println(a);
 		
 		a = 30;
